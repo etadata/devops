@@ -1,5 +1,5 @@
 {
-  "name": "your-app",
+  "name": "Demo-app",
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint .",
